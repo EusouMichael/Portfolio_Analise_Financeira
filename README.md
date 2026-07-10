@@ -99,17 +99,6 @@ Adicione uma captura de tela do relatório:
 
 ---
 
-## 👨‍💻 Autor
-
-Michael Ferreira
-
-GitHub:
-https://github.com/EusouMichael
-
-LinkedIn:
-https://www.linkedin.com/in/michael-ferreira-5b622332a/
-
----
 
 ## ⭐ Resultado
 
