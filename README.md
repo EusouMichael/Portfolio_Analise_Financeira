@@ -1,105 +1,59 @@
-# 💰 Dashboard Financeiro em Power BI
+# 💰 Financial Analytics — Power BI
 
-## 📌 Sobre o Projeto
+Projeto de **Business Intelligence e Análise Financeira** desenvolvido no Power BI para acompanhar receitas, despesas, lucro e margem de lucro.
 
-Este projeto foi desenvolvido no Power BI com o objetivo de monitorar e analisar indicadores financeiros essenciais para a tomada de decisão.
+## 🎯 Objetivo
 
-O dashboard apresenta uma visão consolidada das receitas, despesas, lucro e margem de lucro, permitindo acompanhamento do desempenho financeiro ao longo do tempo.
+Construir uma visão consolidada do desempenho financeiro e praticar modelagem, transformação de dados e criação de indicadores no Power BI.
 
----
+## 📊 Indicadores
 
-## 🎯 Objetivos
+- Receita Total
+- Despesa Total
+- Lucro Total
+- Margem de Lucro (%)
 
-* Monitorar receitas e despesas.
-* Avaliar a lucratividade do negócio.
-* Acompanhar a evolução financeira.
-* Identificar categorias com maior impacto nos gastos.
-* Apoiar decisões estratégicas baseadas em dados.
+## 🔎 Análises
 
----
+### Despesas por categoria
 
-## 📊 Indicadores Disponíveis
+Identificação das categorias com maior impacto nos gastos.
 
-### KPIs Financeiros
+### Receita x Despesa
 
-* Receita Total
-* Despesa Total
-* Lucro Total
-* Margem de Lucro (%)
+Comparação entre entradas e saídas financeiras ao longo do período.
 
----
+### Evolução financeira
 
-## 📈 Análises Disponíveis
+Acompanhamento temporal do comportamento de receitas, despesas e lucro.
 
-### Despesas por Categoria
+## 🛠️ Tecnologias
 
-Permite identificar os principais centros de custo e categorias que geram maior impacto financeiro.
+- Power BI Desktop
+- Power Query
+- DAX
+- Modelagem de Dados
+- Excel
 
-### Receita x Despesa por Mês
-
-Comparação direta entre entradas e saídas financeiras ao longo dos meses.
-
-### Evolução Financeira
-
-Visualização temporal do comportamento do lucro e das despesas.
-
----
-
-## 🛠️ Ferramentas Utilizadas
-
-* Power BI Desktop
-* Power Query
-* DAX
-* Modelagem de Dados
-
----
-
-## 📂 Estrutura do Projeto
+## 📁 Arquivos
 
 ```text
-📦 Financeiro
- ┣ 📊 Financeiro.pbix
- ┣ 📷 images
- ┃ ┗ dashboard.png
- ┗ 📄 README.md
+Portfolio_Analise_Financeira/
+├── Financeiro.pbix
+├── Financeiro.xlsx
+└── README.md
 ```
 
----
+## 🚀 Possíveis evoluções
 
-## 📋 Métricas Utilizadas
+- Fluxo de Caixa
+- Forecast Financeiro
+- Metas e Orçamentos
+- Comparativos mensais
+- Indicadores acumulados
+- Drill Through
+- Tooltips personalizados
 
-| Métrica         | Descrição                     |
-| --------------- | ----------------------------- |
-| Receita         | Total de entradas financeiras |
-| Despesa         | Total de gastos               |
-| Lucro           | Receita - Despesa             |
-| Margem de Lucro | Percentual de rentabilidade   |
+## 📌 Sobre o projeto
 
----
-
-## 🚀 Melhorias Futuras
-
-* Fluxo de Caixa
-* Forecast Financeiro
-* Metas e Orçamentos
-* Comparativos Mensais
-* Indicadores Acumulados
-* Drill Through
-* Tooltips Personalizados
-
----
-
-## 📷 Dashboard
-
-Adicione uma captura de tela do relatório:
-
-```markdown
-![Dashboard Financeiro](images/dashboard.png)
-```
-
----
-
-
-## ⭐ Resultado
-
-Projeto desenvolvido para fins de estudo e composição de portfólio profissional em Business Intelligence, Análise Financeira e Power BI.
+Projeto desenvolvido para fins de estudo e composição de portfólio em **Business Intelligence, Análise Financeira e Power BI**.
