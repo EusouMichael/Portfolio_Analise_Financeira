@@ -1,17 +1,19 @@
 # 💰 Financial Analytics — Power BI
 
-Projeto de **Business Intelligence e Análise Financeira** desenvolvido no Power BI para acompanhar receitas, despesas, lucro e margem de lucro.
+> **Business Intelligence | Análise Financeira**
+
+Projeto de BI desenvolvido no **Power BI** para acompanhar receitas, despesas, lucro e margem de lucro, praticando transformação de dados, modelagem e construção de indicadores.
 
 ## 🎯 Objetivo
 
-Construir uma visão consolidada do desempenho financeiro e praticar modelagem, transformação de dados e criação de indicadores no Power BI.
+Construir uma visão consolidada do desempenho financeiro e transformar dados financeiros em indicadores úteis para acompanhamento e tomada de decisão.
 
-## 📊 Indicadores
+## 📊 KPIs
 
-- Receita Total
-- Despesa Total
-- Lucro Total
-- Margem de Lucro (%)
+- **Receita Total**
+- **Despesa Total**
+- **Lucro Total**
+- **Margem de Lucro (%)**
 
 ## 🔎 Análises
 
@@ -19,13 +21,13 @@ Construir uma visão consolidada do desempenho financeiro e praticar modelagem, 
 
 Identificação das categorias com maior impacto nos gastos.
 
-### Receita x Despesa
+### Receita × Despesa
 
 Comparação entre entradas e saídas financeiras ao longo do período.
 
 ### Evolução financeira
 
-Acompanhamento temporal do comportamento de receitas, despesas e lucro.
+Acompanhamento temporal de receitas, despesas e lucro.
 
 ## 🛠️ Tecnologias
 
@@ -35,7 +37,7 @@ Acompanhamento temporal do comportamento de receitas, despesas e lucro.
 - Modelagem de Dados
 - Excel
 
-## 📁 Arquivos
+## 📁 Estrutura
 
 ```text
 Portfolio_Analise_Financeira/
@@ -44,7 +46,11 @@ Portfolio_Analise_Financeira/
 └── README.md
 ```
 
-## 🚀 Possíveis evoluções
+## 💡 Competências demonstradas
+
+**Business Intelligence** · **Financial Analytics** · **Power BI** · **DAX** · **Power Query** · **Data Modeling**
+
+## 🚀 Próximas evoluções
 
 - Fluxo de Caixa
 - Forecast Financeiro
@@ -54,6 +60,6 @@ Portfolio_Analise_Financeira/
 - Drill Through
 - Tooltips personalizados
 
-## 📌 Sobre o projeto
+## 📌 Sobre
 
-Projeto desenvolvido para fins de estudo e composição de portfólio em **Business Intelligence, Análise Financeira e Power BI**.
+Projeto desenvolvido para prática de **Análise de Dados e Business Intelligence**, compondo o portfólio profissional em Dados.
